@@ -4,6 +4,8 @@ yes, this is the second line
 
 yes, this is the third line
 
-yes, this is the fourth line
+no, this is the fourth line
+
+this is a fifth line
 
 this is a final line
