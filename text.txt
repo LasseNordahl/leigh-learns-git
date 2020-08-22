@@ -2,6 +2,6 @@ yes, this is the first line
 
 yes, this is the second line
 
-this is the third line
+yes, this is the third line
 
 no, this is the fourth line
