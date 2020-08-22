@@ -1,6 +1,6 @@
 yes, this is the first line
 
-this is the second line
+yes, this is the second line
 
 this is the third line
 
